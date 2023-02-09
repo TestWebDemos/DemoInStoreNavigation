@@ -95,3 +95,24 @@
 
 # 18.1
 <img width="563" alt="IMG_4758" src="https://user-images.githubusercontent.com/124316944/217956512-c96a5d46-e22a-4223-9847-c84c3c625a3e.PNG">
+
+# 19
+<img width="563" alt="IMG_4761" src="https://user-images.githubusercontent.com/124316944/217964992-0f44c9a0-c196-4079-a265-e1822df4d370.PNG">
+
+# 19.1
+<img width="563" alt="IMG_4762" src="https://user-images.githubusercontent.com/124316944/217965000-fe44ad16-8a5c-4150-9cb6-4ca8f8d71c71.PNG">
+
+# 20
+<img width="563" alt="IMG_4763" src="https://user-images.githubusercontent.com/124316944/217965008-bf965ce2-d3b0-4e98-b7e9-a548854ff5df.PNG">
+
+# 20.1
+<img width="563" alt="IMG_4765" src="https://user-images.githubusercontent.com/124316944/217965020-1cbc819d-7569-4c08-9062-61765f539394.PNG">
+
+# 23
+<img width="563" alt="IMG_4766" src="https://user-images.githubusercontent.com/124316944/217965039-56f37cd1-fd67-45ba-bab6-aae3e265eeac.PNG">
+
+# 21
+<img width="563" alt="IMG_4767" src="https://user-images.githubusercontent.com/124316944/217965048-ebc9c465-3544-4105-90ce-009dc5e15ace.PNG">
+
+# 22
+<img width="563" alt="IMG_4768" src="https://user-images.githubusercontent.com/124316944/217965060-796463fc-831f-4f36-ab37-3aea544ca1fb.PNG">
