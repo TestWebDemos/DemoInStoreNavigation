@@ -106,6 +106,9 @@
 <img width="563" alt="IMG_4763" src="https://user-images.githubusercontent.com/124316944/217965008-bf965ce2-d3b0-4e98-b7e9-a548854ff5df.PNG">
 
 # 20.1
+<img width="563" alt="IMG_4764" src="https://user-images.githubusercontent.com/124316944/217965914-4c414a1a-e2fb-4110-8b84-979ca02d3ba9.PNG">
+
+# 20.2
 <img width="563" alt="IMG_4765" src="https://user-images.githubusercontent.com/124316944/217965020-1cbc819d-7569-4c08-9062-61765f539394.PNG">
 
 # 23
