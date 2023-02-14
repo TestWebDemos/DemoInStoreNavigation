@@ -25,15 +25,15 @@
 <img width="563" alt="IMG_4727" src="https://user-images.githubusercontent.com/124316944/217683641-dca234f7-458d-4463-883a-df45648cb053.PNG">
 
 # 8 replaced
-<img width="563" alt="IMG_4773" src="https://user-images.githubusercontent.com/124316944/218233176-c75fe7ac-5549-407a-b10a-272bce0f0296.PNG">
+<img width="563" alt="IMG_4790" src="https://user-images.githubusercontent.com/124316944/218608180-7635dbb5-24d2-4811-8a94-e6335e0c30dc.PNG">
 
 # 8.1 replaced
-<img width="563" alt="IMG_4774" src="https://user-images.githubusercontent.com/124316944/218233196-3ed16a23-321b-4c09-bfa1-b12be72e4fa4.PNG">
+<img width="563" alt="IMG_4788" src="https://user-images.githubusercontent.com/124316944/218608199-346d1b76-72f4-4f75-a7f0-5eeff582a9c0.PNG">
 
-# 8.1 replaced
-<img width="563" alt="IMG_4775" src="https://user-images.githubusercontent.com/124316944/218233200-c9190b34-71e0-4c8d-b1e4-e66744fe6187.PNG">
+# 8.2 replaced
+<img width="563" alt="IMG_4789" src="https://user-images.githubusercontent.com/124316944/218608222-c1c224cd-f4b6-46cd-b91e-3183ac1d28a0.PNG">
 
-# 8.3 replaced
+# 8.3 delete
 <img width="563" alt="IMG_4776" src="https://user-images.githubusercontent.com/124316944/218233203-4e1a18f5-82fa-4a54-b3b8-9a08372c2983.PNG">
 
 # 9
